@@ -137,4 +137,8 @@ footer a:hover{color:var(--pink);}
   .nav-links{display:none;}
   .section-alt{margin:0 12px;border-radius:32px;}
 }
+<<<<<<< HEAD
 :focus-visible{outline:3px solid var(--lilac-deep);outline-offset:2px;}
+=======
+:focus-visible{outline:3px solid var(--lilac-deep);outline-offset:2px;}
+>>>>>>> 9aaea1f3f7412d0078661d8ee2ed4deb29bdeaec
